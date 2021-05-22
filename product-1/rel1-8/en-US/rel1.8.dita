@@ -14,7 +14,7 @@
     <refbody>
       <section>
         <title>Preprocessing</title>
-        <p>Additional validation has been added to check e.g. element ID uniqueness, and <codeph>xml:lang</codeph> and URI syntax.</p>
+        <p>Additional validation has been added to check, for example, element ID uniqueness, and <codeph>xml:lang</codeph> and URI syntax.</p>
       </section>
       <section>
         <title>PDF</title>
